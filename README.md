@@ -58,16 +58,3 @@ Sou estudante de Ciência da Computação na **UFRR** e atuo profissionalmente c
 </p>
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-tenacol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-tenacol&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Transformando café em código e problemas em soluções."</i>
-</p>
